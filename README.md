@@ -1,8 +1,8 @@
 # Microsoft Engage 2022 Internship Program
-# Project Name: Siksha Mitra (Drowsiness Detection System using Face Recognition) 👩‍🎓👨‍🎓
+# Project Name: Dhanush kumar (Drowsiness Detection System using Face Recognition) 👩‍🎓👨‍🎓
 
 ### About: 📜📜
-    Siksha Mitra is a web application designed for drowsiness detection of a person. People tends to feel drowsy after sometime while studying or doing some work. And this drowsiness affect concentration on that specific work.
+    Dhanush kumar is a web application designed for drowsiness detection of a person. People tends to feel drowsy after sometime while studying or doing some work. And this drowsiness affect concentration on that specific work.
     In this web application, I have designed a system which keeps a track of the drowsiness of the person. The landing page of the web application will describe the project and the benefits of the project. Clicking on the ‘Get Started’ button of the landing page of the web will land you to the next page. On clicking the ‘start’ button, the camera of the system will be enabled and the face recognition will start.
     The model will run and detect the face, left-eye and right-eye of the person. Whenever the person gets drowsy or sleepy, the system will alert the user by alarm. 
 The webpage also displays some tips to get rid of drowsiness. The user can feel fresh and active after following those tips. The articles of those tips are also attached in each slide so that user can visit their page to get a detailed view. 
@@ -14,10 +14,7 @@ The webpages are designed using HTML, CSS. The interaction between the webpage i
 ### TechStacks Used: 👨‍💻
 HTML, CSS, javascript, python, flask
 
-### Video Presentation: 
-https://drive.google.com/file/d/1muxQ9VnFzNCpRj0RsWFQLNxT0EKnrLAP/view?usp=sharing
-
-### Installation guide:
+###  Installation guide:
 
 Open the project folder in VSCode.
 Python and pip should be installed.
@@ -26,9 +23,7 @@ Install virtualenv
 ```shell
 pip install virtualenv
 ```
-Create a virtual environment within the project folder.
-```shell
-python -m venv my_venv
+Create a virtual environment within the project folder. venv my_venv
 ```
 
 Create a virtual environment within the project folder.
